@@ -1,0 +1,25 @@
+# Sistema operativo
+*.DS_Store
+
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos de configuración locales
+*.sqlite3
+db.sqlite3
+*.pyc
+*.pyo
+*.log
+*.pot
+*.py[cod]
+.env
+
+# Archivos de migración de Django
+*/migrations/
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
